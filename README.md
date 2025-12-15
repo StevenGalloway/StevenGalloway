@@ -15,10 +15,10 @@ Each repository includes documented tradeoffs, architectural decisions, and prod
 |--------------------------|-----------|-----------|
 | Data Scientist | Problem framing, exploratory analysis, feature engineering, model evaluation, and insight generation | machine-learning-lab |
 | ML Engineer | Model development, training pipelines, deployment considerations, and production scalability | machine-learning-lab, data-engineering-platforms |
-| Data Engineer | Pipelines, orchestration, scale | data-engineering-platforms |
-| Software Engineer | Clean OOP & design patterns | object-oriented-systems, software-systems |
-| Cloud Engineer | AWS/Azure/GCP + IaC | cloud-engineering |
-| Solutions Architect | Design thinking, tradeoffs, scalability | architecture-patterns, system-design-case-studies |
+| Data Engineer | Data ingestion, transformation, orchestration, quality enforcement, and scalable data platform design | data-engineering-platforms |
+| Software Engineer | Application design, clean object-oriented implementation, testing strategies, and maintainable system construction | object-oriented-systems, software-systems |
+| Cloud Engineer | Infrastructure as code, secure networking, environment automation, and reliable cloud deployments | cloud-engineering |
+| Solutions Architect | Requirements translation, system design, architectural tradeoffs, and scalability and reliability planning | architecture-patterns, system-design-case-studies |
 
 ---
 
