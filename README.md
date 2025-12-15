@@ -46,4 +46,4 @@ to make review fast and intuitive.
 ---
 
 ## 📬 Contact
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn: https://www.linkedin.com/in/stevengalloway/
