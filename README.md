@@ -1,16 +1,49 @@
-## Hi there 👋
+# Steven Galloway
+Senior Software Engineer | Data, ML & Cloud Architecture
 
-<!--
-**StevenGalloway/StevenGalloway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and build scalable systems across machine learning, data engineering,
+and cloud platforms. This GitHub is intentionally organized by technical domain
+to make review fast and intuitive.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🗺️ Repository Map (Start Here)
+
+| If you're reviewing for… | Look here |
+|--------------------------|-----------|
+| Data Scientist | machine-learning-lab |
+| ML Engineer | machine-learning-lab, data-engineering-platforms |
+| Software Engineer | object-oriented-systems |
+| Cloud Engineer | cloud-engineering |
+| Solutions Architect | architecture-patterns, system-design-case-studies |
+
+---
+
+## 🏗 Architecture & System Design
+→ **architecture-patterns**  
+→ **system-design-case-studies**
+
+---
+
+## 🤖 Machine Learning & Data Science
+→ **machine-learning-lab**
+
+---
+
+## ☁️ Cloud Engineering
+→ **cloud-engineering**
+
+---
+
+## 🧱 Object-Oriented Design
+→ **object-oriented-systems**
+
+---
+
+## 🔧 Engineering Practices
+→ **utilities-and-tooling**
+
+---
+
+## 📬 Contact
+- LinkedIn: https://linkedin.com/in/yourprofile
