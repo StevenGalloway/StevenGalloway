@@ -13,7 +13,8 @@ to make review fast and intuitive.
 |--------------------------|-----------|
 | Data Scientist | machine-learning-lab |
 | ML Engineer | machine-learning-lab, data-engineering-platforms |
-| Software Engineer | object-oriented-systems |
+| Data Engineer | data-engineering-platforms |
+| Software Engineer | object-oriented-systems, software-systems |
 | Cloud Engineer | cloud-engineering |
 | Solutions Architect | architecture-patterns, system-design-case-studies |
 
