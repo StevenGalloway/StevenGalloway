@@ -13,11 +13,11 @@ Each repository includes documented tradeoffs, architectural decisions, and prod
 
 | If you're reviewing for… | Description | Look here |
 |--------------------------|-----------|-----------|
-| Solutions Architecture & System Design | Requirements translation, system design, architectural tradeoffs, and scalability and reliability planning | [architecture-patterns](https://github.com/StevenGalloway/architecture-patterns),<br></br> [system-design-case-studies](https://github.com/StevenGalloway/system-design-case-studies) |
+| Solutions Architecture & System Design | Requirements translation, system design, architectural tradeoffs, and scalability and reliability planning | [architecture-patterns](https://github.com/StevenGalloway/architecture-patterns)<br></br> [system-design-case-studies](https://github.com/StevenGalloway/system-design-case-studies) |
 | Data Scientist | Problem framing, exploratory analysis, feature engineering, model evaluation, and insight generation | [machine-learning-lab](https://github.com/StevenGalloway/machine-learning-lab) |
-| ML Engineer | Model development, training pipelines, deployment considerations, and production scalability | [machine-learning-lab](https://github.com/StevenGalloway/machine-learning-lab), [data-engineering-platforms](https://github.com/StevenGalloway/data-engineering-platforms) |
+| ML Engineer | Model development, training pipelines, deployment considerations, and production scalability | [machine-learning-lab](https://github.com/StevenGalloway/machine-learning-lab)<br></br> [data-engineering-platforms](https://github.com/StevenGalloway/data-engineering-platforms) |
 | Data Engineer | Data ingestion, transformation, orchestration, quality enforcement, and scalable data platform design | [data-engineering-platforms](https://github.com/StevenGalloway/data-engineering-platforms) |
-| Software Engineer | Application design, clean object-oriented implementation, testing strategies, and maintainable system construction |[object-oriented-systems](https://github.com/StevenGalloway/object-oriented-systems), [software-systems](https://github.com/StevenGalloway/software-systems) |
+| Software Engineer | Application design, clean object-oriented implementation, testing strategies, and maintainable system construction |[object-oriented-systems](https://github.com/StevenGalloway/object-oriented-systems) <br></br> [software-systems](https://github.com/StevenGalloway/software-systems) |
 | Python Projects | Projects designed with Python that make everyday work or life situations easier | [python-projects](https://github.com/StevenGalloway/python-projects) |
 | Cloud Engineer | Infrastructure as code, secure networking, environment automation, and reliable cloud deployments | [cloud-engineering](https://github.com/StevenGalloway/cloud-engineering) |
 
