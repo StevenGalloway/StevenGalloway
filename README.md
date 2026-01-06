@@ -26,33 +26,33 @@ Each repository includes documented tradeoffs, architectural decisions, and prod
 
 ## 🏗 Solutions Architecture & System Design
 → **[architecture-patterns](https://github.com/StevenGalloway/architecture-patterns)**  (tradeoffs, scalability, failure modes)
-→ [**system-design-case-studies**]https://github.com/StevenGalloway/system-design-case-studies (end-to-end system design walkthroughs)
+→ **[system-design-case-studies](https://github.com/StevenGalloway/system-design-case-studies)** (end-to-end system design walkthroughs)
 
 ---
 
 ## 🤖 Machine Learning & Data Science
-→ **machine-learning-lab**https://github.com/StevenGalloway/machine-learning-lab (modeling, feature engineering, evaluation, experimentation)
+→ **[machine-learning-lab](https://github.com/StevenGalloway/machine-learning-lab)** (modeling, feature engineering, evaluation, experimentation)
 
 ---
 
 ## 🤖 Data Engineering
-→ **data-engineering-platforms**https://github.com/StevenGalloway/data-engineering-platforms (ingestion, pipelines, scalable systems)
+→ **[data-engineering-platforms](https://github.com/StevenGalloway/data-engineering-platforms)** (ingestion, pipelines, scalable systems)
 
 ---
 
 ## 🧱 Software Engineering
-→ **object-oriented-systems**https://github.com/StevenGalloway/object-oriented-systems (Java, .NET)
-→ **software-systems**https://github.com/StevenGalloway/software-systems (Other systems)
+→ **[object-oriented-systems](https://github.com/StevenGalloway/object-oriented-systems)** (Java, .NET)
+→ **[software-systems](https://github.com/StevenGalloway/software-systems)** (Other systems)
 
 ---
 
 ## 🧱 Python Projects
-→ **python-projects**https://github.com/StevenGalloway/python-projects (scripts)
+→ **[python-projects](https://github.com/StevenGalloway/python-projects)** (scripts)
 
 ---
 
 ## ☁️ Cloud Engineering
-→ **cloud-engineering**https://github.com/StevenGalloway/cloud-engineering (IaaC, best practices)
+→ **[cloud-engineering](https://github.com/StevenGalloway/cloud-engineering)** (IaaC, best practices)
 
 ---
 
