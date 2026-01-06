@@ -41,7 +41,7 @@ Each repository includes documented tradeoffs, architectural decisions, and prod
 ---
 
 ## 🧱 Software Engineering
-**[object-oriented-systems](https://github.com/StevenGalloway/object-oriented-systems)** (Java, .NET) <br></br>\
+**[object-oriented-systems](https://github.com/StevenGalloway/object-oriented-systems)** (Java, .NET)\
 **[software-systems](https://github.com/StevenGalloway/software-systems)** (Other systems)
 
 ---
