@@ -13,7 +13,7 @@ Each repository includes documented tradeoffs, architectural decisions, and prod
 
 | If you're reviewing for… | Description | Look here |
 |--------------------------|-----------|-----------|
-| Solutions Architecture & System Design | Requirements translation, system design, architectural tradeoffs, and scalability and reliability planning | [architecture-patterns](https://github.com/StevenGalloway/architecture-patterns)\, [system-design-case-studies](https://github.com/StevenGalloway/system-design-case-studies) |
+| Solutions Architecture & System Design | Requirements translation, system design, architectural tradeoffs, and scalability and reliability planning | [architecture-patterns](https://github.com/StevenGalloway/architecture-patterns),<br></br> [system-design-case-studies](https://github.com/StevenGalloway/system-design-case-studies) |
 | Data Scientist | Problem framing, exploratory analysis, feature engineering, model evaluation, and insight generation | [machine-learning-lab](https://github.com/StevenGalloway/machine-learning-lab) |
 | ML Engineer | Model development, training pipelines, deployment considerations, and production scalability | [machine-learning-lab](https://github.com/StevenGalloway/machine-learning-lab), [data-engineering-platforms](https://github.com/StevenGalloway/data-engineering-platforms) |
 | Data Engineer | Data ingestion, transformation, orchestration, quality enforcement, and scalable data platform design | [data-engineering-platforms](https://github.com/StevenGalloway/data-engineering-platforms) |
