@@ -25,7 +25,7 @@ Each repository includes documented tradeoffs, architectural decisions, and prod
 ---
 
 ## 🏗 Solutions Architecture & System Design
-→ [**architecture-patterns**]https://github.com/StevenGalloway/architecture-patterns  (tradeoffs, scalability, failure modes)
+→ **[architecture-patterns]https://github.com/StevenGalloway/architecture-patterns**  (tradeoffs, scalability, failure modes)
 → [**system-design-case-studies**]https://github.com/StevenGalloway/system-design-case-studies (end-to-end system design walkthroughs)
 
 ---
