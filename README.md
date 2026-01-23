@@ -28,11 +28,16 @@ Each repository includes documented tradeoffs, architectural decisions, and prod
 **[architecture-patterns](https://github.com/StevenGalloway/architecture-patterns)**  (tradeoffs, scalability, failure modes)\
 **[netflix-architecture-case-study](https://github.com/StevenGalloway/netflix-architecture-case-study)** (end-to-end system design walkthroughs)
 
+**[netflix-cdn-content-distribution](https://github.com/StevenGalloway/netflix-architecture-case-study/tree/main/docs/02-content-supply-chain)** (diagrams, cdn strategy, adrs)
+**[netflix-playback sequencing]([https://github.com/StevenGalloway/netflix-architecture-case-study/blob/main/docs/02-content-supply-chain/decisions/adr-0001-event-driven-pipeline.md](https://github.com/StevenGalloway/netflix-architecture-case-study/blob/main/docs/01-playback-delivery/diagrams/playback-sequence.mmd))**
+
 ---
 
 ## Machine Learning & Data Science Highlights
-**[machine-learning-lab](https://github.com/StevenGalloway/machine-learning-lab)** (modeling, feature engineering, evaluation, experimentation)
+**[machine-learning-lab](https://github.com/StevenGalloway/machine-learning-lab)** (modeling, feature engineering, evaluation, experimentation)\
 **[custom-llm](https://github.com/StevenGalloway/custom-llm)** (modeling, feature engineering, evaluation, experimentation)
+
+**[XGBoost - Loan Approvals](https://github.com/StevenGalloway/machine-learning-projects/tree/main/case-studies/loan-approval-xgb)** (modeling, feature engineering, evaluation, experimentation)
 
 ---
 
