@@ -28,8 +28,8 @@ Each repository includes documented tradeoffs, architectural decisions, and prod
 **[architecture-patterns](https://github.com/StevenGalloway/architecture-patterns)**  (tradeoffs, scalability, failure modes)\
 **[netflix-architecture-case-study](https://github.com/StevenGalloway/netflix-architecture-case-study)** (end-to-end system design walkthroughs)
 
-**[netflix-cdn-content-distribution](https://github.com/StevenGalloway/netflix-architecture-case-study/tree/main/docs/02-content-supply-chain)** (diagrams, cdn strategy, adrs)
-**[netflix-playback sequencing]([https://github.com/StevenGalloway/netflix-architecture-case-study/blob/main/docs/02-content-supply-chain/decisions/adr-0001-event-driven-pipeline.md](https://github.com/StevenGalloway/netflix-architecture-case-study/blob/main/docs/01-playback-delivery/diagrams/playback-sequence.mmd))**
+**[netflix-cdn-content-distribution](https://github.com/StevenGalloway/netflix-architecture-case-study/tree/main/docs/02-content-supply-chain)** (diagrams, cdn strategy, adrs)\
+**[netflix-playback sequencing](https://github.com/StevenGalloway/netflix-architecture-case-study/blob/main/docs/02-content-supply-chain/decisions/adr-0001-event-driven-pipeline.md)**
 
 ---
 
