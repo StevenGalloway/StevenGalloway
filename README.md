@@ -48,7 +48,7 @@ Each repository includes documented tradeoffs, architectural decisions, and prod
 ---
 
 ## Data Analytics Highlights
-**[data-engineering-platforms](https://github.com/StevenGalloway/data-analytics-platforms)** (business KPIs, dashboards, solutions)
+**[data-analytics-platforms](https://github.com/StevenGalloway/data-analytics-platforms)** (business KPIs, dashboards, solutions)
 
 ---
 
