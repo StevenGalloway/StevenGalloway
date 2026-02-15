@@ -17,6 +17,7 @@ Each repository includes documented tradeoffs, architectural decisions, and prod
 | Data Scientist | Problem framing, exploratory analysis, feature engineering, model evaluation, and insight generation | [machine-learning-lab](https://github.com/StevenGalloway/machine-learning-lab) |
 | ML Engineer | Model development, training pipelines, deployment considerations, custom llms, and production scalability | [machine-learning-lab](https://github.com/StevenGalloway/machine-learning-lab)<br></br> [custom-llm](https://github.com/StevenGalloway/custom-llm)<br></br> [data-engineering-platforms](https://github.com/StevenGalloway/data-engineering-platforms) |
 | Data Engineer | Data ingestion, transformation, orchestration, quality enforcement, and scalable data platform design | [data-engineering-platforms](https://github.com/StevenGalloway/data-engineering-platforms) |
+| Data Analytics | Business analysis, Requirements, Understanding business KPIs and building dashboards to support those KPIs | [data-analytics-platforms](https://github.com/StevenGalloway/data-analytics-platforms) |
 | Software Engineer | Application design, clean object-oriented implementation, testing strategies, and maintainable system construction |[object-oriented-systems](https://github.com/StevenGalloway/object-oriented-systems) <br></br> [software-systems](https://github.com/StevenGalloway/software-systems) |
 | Python Projects | Projects designed with Python that make everyday work or life situations easier | [python-projects](https://github.com/StevenGalloway/python-projects) |
 | Cloud Engineer | Infrastructure as code, secure networking, environment automation, and reliable cloud deployments | [cloud-engineering](https://github.com/StevenGalloway/cloud-engineering) |
@@ -43,6 +44,11 @@ Each repository includes documented tradeoffs, architectural decisions, and prod
 
 ## Data Engineering Highlights
 **[data-engineering-platforms](https://github.com/StevenGalloway/data-engineering-platforms)** (ingestion, pipelines, scalable systems)
+
+---
+
+## Data Analytics Highlights
+**[data-engineering-platforms](https://github.com/StevenGalloway/data-analytics-platforms)** (business KPIs, dashboards, solutions)
 
 ---
 
