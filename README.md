@@ -1,7 +1,7 @@
 # Steven Galloway
 Senior Technology Executive & Engineer | Data, ML & Cloud Architecture
 
-I design and build scalable systems across machine learning, data engineering,
+I design and build scalable systems across machine learning, data engineering, software
 and cloud platforms. This GitHub is intentionally organized by technical domain
 to make review fast and intuitive.
 
