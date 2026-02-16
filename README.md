@@ -29,12 +29,12 @@ Each repository includes documented tradeoffs, architectural decisions, and prod
 **[architecture-patterns](https://github.com/StevenGalloway/architecture-patterns)**  (tradeoffs, scalability, failure modes)\
 **[netflix-architecture-case-study](https://github.com/StevenGalloway/netflix-architecture-case-study)** (end-to-end system design walkthroughs)
 
-**[netflix cdn content distribution](https://github.com/StevenGalloway/netflix-architecture-case-study/tree/main/docs/02-content-supply-chain)** (diagrams, cdn strategy, adrs)\
-**[netflix playback sequencing](https://github.com/StevenGalloway/netflix-architecture-case-study/blob/main/docs/01-playback-delivery/diagrams/playback-sequence.mmd)** (diagram of playback sequence)\
-**[netflix identity management](https://github.com/StevenGalloway/netflix-architecture-case-study/blob/main/docs/03-identity-entitlements-drm/README.md)** (strategy overview)\
-**[netflix personalization architecture](https://github.com/StevenGalloway/netflix-architecture-case-study/blob/main/docs/04-personalization-control-plane/diagrams/recs-serving.mmd)** (diagram of serving recommendations)\
-**[netflix resilience and failover strategy](https://github.com/StevenGalloway/netflix-architecture-case-study/blob/main/docs/05-global-resilience/README.md)** (strategy overview)\
-**[netflix qoe and telemetry](https://github.com/StevenGalloway/netflix-architecture-case-study/blob/main/docs/06-observability-qoe/diagrams/telemetry-pipeline.mmd)** (diagram of streaming pipeline)\
+**[Netflix CDN Content Distribution](https://github.com/StevenGalloway/netflix-architecture-case-study/tree/main/docs/02-content-supply-chain)** (diagrams, cdn strategy, adrs)\
+**[Netflix Playback Sequencing](https://github.com/StevenGalloway/netflix-architecture-case-study/blob/main/docs/01-playback-delivery/diagrams/playback-sequence.mmd)** (diagram of playback sequence)\
+**[Netflix Identity Management](https://github.com/StevenGalloway/netflix-architecture-case-study/blob/main/docs/03-identity-entitlements-drm/README.md)** (strategy overview)\
+**[Netflix Personalization Architecture](https://github.com/StevenGalloway/netflix-architecture-case-study/blob/main/docs/04-personalization-control-plane/diagrams/recs-serving.mmd)** (diagram of serving recommendations)\
+**[Netflix Resilience and Failover Strategy](https://github.com/StevenGalloway/netflix-architecture-case-study/blob/main/docs/05-global-resilience/README.md)** (strategy overview)\
+**[Netflix QOE and Telemetry](https://github.com/StevenGalloway/netflix-architecture-case-study/blob/main/docs/06-observability-qoe/diagrams/telemetry-pipeline.mmd)** (diagram of streaming pipeline)\
 
 ---
 
