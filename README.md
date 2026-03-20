@@ -40,12 +40,12 @@ Each repository includes documented tradeoffs, architectural decisions, and prod
 
 ## Machine Learning & Data Science Highlights
 **[machine-learning-lab](https://github.com/StevenGalloway/machine-learning-lab)** (modeling, feature engineering, evaluation, experimentation)\
-**[custom-llm](https://github.com/StevenGalloway/custom-llm)** (modeling, feature engineering, evaluation, experimentation)
+**[custom-llm](https://github.com/StevenGalloway/custom-llm)** (modeling, feature engineering, evaluation, experimentation)\
 
-**[CNN - Handwriting Recognition Application](https://github.com/StevenGalloway/machine-learning-projects/tree/main/case-studies/convolutional-models/handwriting-recognition)** (modeling, feature engineering, evaluation, experimentation)
-**[Monte Carlo - Superbowl Prediction 2026](https://github.com/StevenGalloway/machine-learning-projects/tree/main/case-studies/monte-carlo-models/superbowl-2026-prediction)** (modeling, feature engineering, evaluation, experimentation)
-**[Naives Bayes - Text Sender Identification](https://github.com/StevenGalloway/machine-learning-projects/tree/main/case-studies/naives-bayes-models/text-sender-identification)** (modeling, feature engineering, evaluation, experimentation)
-**[Markov Model (Jupyter) - Weather Prediction](https://github.com/StevenGalloway/machine-learning-projects/tree/main/notebooks/jupyter/weather-prediction)** (modeling, feature engineering, evaluation, experimentation)
+**[CNN - Handwriting Recognition Application](https://github.com/StevenGalloway/machine-learning-projects/tree/main/case-studies/convolutional-models/handwriting-recognition)** (modeling, feature engineering, evaluation, experimentation)\
+**[Monte Carlo - Superbowl Prediction 2026](https://github.com/StevenGalloway/machine-learning-projects/tree/main/case-studies/monte-carlo-models/superbowl-2026-prediction)** (modeling, feature engineering, evaluation, experimentation)\
+**[Naives Bayes - Text Sender Identification](https://github.com/StevenGalloway/machine-learning-projects/tree/main/case-studies/naives-bayes-models/text-sender-identification)** (modeling, feature engineering, evaluation, experimentation)\
+**[Markov Model (Jupyter) - Weather Prediction](https://github.com/StevenGalloway/machine-learning-projects/tree/main/notebooks/jupyter/weather-prediction)** (modeling, feature engineering, evaluation, experimentation)\
 
 ---
 
