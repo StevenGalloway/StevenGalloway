@@ -66,6 +66,8 @@ Each repository includes documented tradeoffs, architectural decisions, and prod
 ---
 
 ## Python Projects Highlights
+**[python-projects](https://github.com/StevenGalloway/python-projects)**
+
 **[AURA - Spa Booking Chatbot](https://github.com/StevenGalloway/spa-booking-chatbot)** (LangGraph workflow, DistilBERT intent classification, FastAPI + Streamlit)\
 **[ANIMATCH - Anime Recommendation Engine](https://github.com/StevenGalloway/recommendation-engine)** (TF-IDF + cosine similarity, circuit breaker, FastAPI + Next.js)\
 **[Stock Trade Bot](https://github.com/StevenGalloway/TradeBot)** (VWAP, premarket gap, and volume surge scoring with ranked buy signals and email alerts)\
