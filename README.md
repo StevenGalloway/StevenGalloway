@@ -70,6 +70,7 @@ Each repository includes documented tradeoffs, architectural decisions, and prod
 **[ANIMATCH - Anime Recommendation Engine](https://github.com/StevenGalloway/recommendation-engine)** (TF-IDF + cosine similarity, circuit breaker, FastAPI + Next.js)\
 **[Stock Trade Bot](https://github.com/StevenGalloway/TradeBot)** (VWAP, premarket gap, and volume surge scoring with ranked buy signals and email alerts)\
 **[Leads Enrichment & Distribution](https://github.com/StevenGalloway/AddStateToLeads-Project)** (bulk XLSX processing, city-to-state lookup, regional sorting)\
+\
 Additional Python is embedded throughout other repositories including machine-learning-lab and software-systems.
 
 ---
