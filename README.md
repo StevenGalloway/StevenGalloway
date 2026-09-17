@@ -20,6 +20,7 @@ Each repository includes documented tradeoffs, architectural decisions, and prod
 | Data Analytics | Business analysis, Requirements, Understanding business KPIs and building dashboards to support those KPIs | [data-analytics-platforms](https://github.com/StevenGalloway/data-analytics-platforms) |
 | Software Engineer | Application design, clean object-oriented implementation, testing strategies, and maintainable system construction |[object-oriented-systems](https://github.com/StevenGalloway/object-oriented-systems) <br></br> [software-systems](https://github.com/StevenGalloway/software-systems) |
 | Full-Stack Production Engineering | Live production feature delivery, incident diagnosis, and legacy system stewardship on a commercial SaaS platform | [full-stack-production-engineering](https://github.com/StevenGalloway/full-stack-production-engineering) |
+| Systems Integration & Backend Engineering | Third-party API integration, webhook security, multi-tenant SaaS design, and business-rule engines | [spa-crm-integration](https://github.com/StevenGalloway/blvd-ghl-integration) |
 | Python Projects | Projects designed with Python that make everyday work or life situations easier | [python-projects](https://github.com/StevenGalloway/python-projects) |
 | Cloud Engineer | Infrastructure as code, secure networking, environment automation, and reliable cloud deployments | [cloud-engineering](https://github.com/StevenGalloway/cloud-engineering) |
 
@@ -66,8 +67,13 @@ Each repository includes documented tradeoffs, architectural decisions, and prod
 **[object-oriented-systems](https://github.com/StevenGalloway/object-oriented-systems)** (Java, .NET)\
 **[software-systems](https://github.com/StevenGalloway/software-systems)** (Other systems)
 
+---
+
+## Systems Integration Highlights
+**[spa-crm-integration](https://github.com/StevenGalloway/blvd-ghl-integration)** (Boulevard ↔ GoHighLevel webhook integration — multi-tenant config, signature verification, idempotent event processing, custom rebooking rule engine, production deployment runbook)
 
 ---
+
 
 ## Python Projects Highlights
 **[python-projects](https://github.com/StevenGalloway/python-projects)**
