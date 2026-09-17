@@ -37,7 +37,7 @@ Each repository includes documented tradeoffs, architectural decisions, and prod
 **[Netflix Resilience and Failover Strategy](https://github.com/StevenGalloway/netflix-architecture-case-study/blob/main/docs/05-global-resilience/README.md)** (strategy overview)\
 **[Netflix QOE and Telemetry](https://github.com/StevenGalloway/netflix-architecture-case-study/blob/main/docs/06-observability-qoe/diagrams/telemetry-pipeline.mmd)** (diagram of streaming pipeline)\
 
-**[full-stack-production-engineering](https://github.com/StevenGalloway/full-stack-production-engineering)** (interactive feature development, incident response, legacy stewardship)
+**[Full Stack Production Engineering](https://github.com/StevenGalloway/full-stack-production-engineering)** (interactive feature development, incident response, legacy stewardship)
 
 ---
 
