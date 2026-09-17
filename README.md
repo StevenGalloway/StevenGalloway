@@ -19,13 +19,14 @@ Each repository includes documented tradeoffs, architectural decisions, and prod
 | Data Engineer | Data ingestion, transformation, orchestration, quality enforcement, and scalable data platform design | [data-engineering-platforms](https://github.com/StevenGalloway/data-engineering-platforms) |
 | Data Analytics | Business analysis, Requirements, Understanding business KPIs and building dashboards to support those KPIs | [data-analytics-platforms](https://github.com/StevenGalloway/data-analytics-platforms) |
 | Software Engineer | Application design, clean object-oriented implementation, testing strategies, and maintainable system construction |[object-oriented-systems](https://github.com/StevenGalloway/object-oriented-systems) <br></br> [software-systems](https://github.com/StevenGalloway/software-systems) |
+| Full-Stack Production Engineering | Live production feature delivery, incident diagnosis, and legacy system stewardship on a commercial SaaS platform | [full-stack-production-engineering](https://github.com/StevenGalloway/full-stack-production-engineering) |
 | Python Projects | Projects designed with Python that make everyday work or life situations easier | [python-projects](https://github.com/StevenGalloway/python-projects) |
 | Cloud Engineer | Infrastructure as code, secure networking, environment automation, and reliable cloud deployments | [cloud-engineering](https://github.com/StevenGalloway/cloud-engineering) |
 
 
 ---
 
-## Solutions Architecture & System Design Highlights
+## Solutions Architecture, System Design Highlights & Full-Stack Production Engineering Case Studies
 **[architecture-patterns](https://github.com/StevenGalloway/architecture-patterns)**  (tradeoffs, scalability, failure modes)\
 **[netflix-architecture-case-study](https://github.com/StevenGalloway/netflix-architecture-case-study)** (end-to-end system design walkthroughs)
 
@@ -35,6 +36,8 @@ Each repository includes documented tradeoffs, architectural decisions, and prod
 **[Netflix Personalization Architecture](https://github.com/StevenGalloway/netflix-architecture-case-study/blob/main/docs/04-personalization-control-plane/diagrams/recs-serving.mmd)** (diagram of serving recommendations)\
 **[Netflix Resilience and Failover Strategy](https://github.com/StevenGalloway/netflix-architecture-case-study/blob/main/docs/05-global-resilience/README.md)** (strategy overview)\
 **[Netflix QOE and Telemetry](https://github.com/StevenGalloway/netflix-architecture-case-study/blob/main/docs/06-observability-qoe/diagrams/telemetry-pipeline.mmd)** (diagram of streaming pipeline)\
+
+**[full-stack-production-engineering](https://github.com/StevenGalloway/full-stack-production-engineering)** (interactive feature development, incident response, legacy stewardship)
 
 ---
 
@@ -62,6 +65,7 @@ Each repository includes documented tradeoffs, architectural decisions, and prod
 ## Software Engineering Highlights
 **[object-oriented-systems](https://github.com/StevenGalloway/object-oriented-systems)** (Java, .NET)\
 **[software-systems](https://github.com/StevenGalloway/software-systems)** (Other systems)
+
 
 ---
 
