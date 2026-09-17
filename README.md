@@ -27,7 +27,7 @@ Each repository includes documented tradeoffs, architectural decisions, and prod
 
 ## Solutions Architecture, System Design Highlights & Full-Stack Production Engineering Case Studies
 **[architecture-patterns](https://github.com/StevenGalloway/architecture-patterns)**  (tradeoffs, scalability, failure modes)\
-**[netflix-architecture-case-study](https://github.com/StevenGalloway/netflix-architecture-case-study)** (end-to-end system design walkthroughs)
+**[netflix-architecture-case-study](https://github.com/StevenGalloway/netflix-architecture-case-study)** (end-to-end system design walkthroughs)\
 **[full-stack-production-engineering](https://github.com/StevenGalloway/full-stack-production-engineering)** (interactive feature development, incident response, legacy stewardship)
 
 **[Netflix CDN Content Distribution](https://github.com/StevenGalloway/netflix-architecture-case-study/tree/main/docs/02-content-supply-chain)** (diagrams, cdn strategy, adrs)\
@@ -63,8 +63,8 @@ Each repository includes documented tradeoffs, architectural decisions, and prod
 
 ## Software Engineering Highlights
 **[object-oriented-systems](https://github.com/StevenGalloway/object-oriented-systems)** (Java, .NET)\
-**[software-systems](https://github.com/StevenGalloway/software-systems)** (Other systems)
-**[crm-system](https://github.com/StevenGalloway/crm-system)** (Kanban pipeline board, Azure Functions API, Cosmos DB, Slack digest + DM notifications — includes a worked example of routing around a serverless platform's Timer-trigger limitation via an external scheduler with idempotency + catch-up handling)
+**[software-systems](https://github.com/StevenGalloway/software-systems)** (Other systems)\
+**[crm-system](https://github.com/StevenGalloway/crm-system)** (Kanban pipeline board, Azure Functions API, Cosmos DB, Slack digest + DM notifications — includes a worked example of routing around a serverless platform's Timer-trigger limitation via an external scheduler with idempotency + catch-up handling)\
 **[spa-crm-integration](https://github.com/StevenGalloway/blvd-ghl-integration)** (Boulevard ↔ GoHighLevel webhook integration | multi-tenant config, signature verification, idempotent event processing, custom rebooking rule engine, production deployment runbook)
 
 
