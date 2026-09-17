@@ -70,7 +70,7 @@ Each repository includes documented tradeoffs, architectural decisions, and prod
 ---
 
 ## Systems Integration Highlights
-**[spa-crm-integration](https://github.com/StevenGalloway/blvd-ghl-integration)** (Boulevard ↔ GoHighLevel webhook integration — multi-tenant config, signature verification, idempotent event processing, custom rebooking rule engine, production deployment runbook)
+**[spa-crm-integration](https://github.com/StevenGalloway/blvd-ghl-integration)** (Boulevard ↔ GoHighLevel webhook integration | multi-tenant config, signature verification, idempotent event processing, custom rebooking rule engine, production deployment runbook)
 
 ---
 
